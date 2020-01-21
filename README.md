@@ -10,6 +10,6 @@
 
 I've been studying reverse engineering for a while, and this is the first program that I reversed by myself. 
 
-Though debugging asm codes are pretty boring, I learnt how low architecture encrypted and by going through the
+Though debugging asm codes are pretty ~boring~ time consuming, I learnt how low architecture encrypted and by
 
-asm code I could write out the first ever keygen from me.
+ going through the asm code I could write out the first ever keygen.
