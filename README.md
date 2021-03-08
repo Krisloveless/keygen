@@ -1,8 +1,6 @@
 # A keygen for an encryption method
 
-*All work done in this repo is just for study purposes, the major salt value is changed!*
-
-*The program will not be public available, please support all developers' hard work.*
+*All work done in this repo is just for study purposes, please support all developers' hard work.*
 
 ![screenshot](./screenshot.png)
 
